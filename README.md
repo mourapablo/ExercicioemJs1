@@ -1,4 +1,4 @@
-# exercicios desenvolvidos em javascript, Média do aluno com condições relacionais.
+# exercicios desenvolvidos em javascript
 
 <!DOCTYPE html>
 <html lang="pt-br">
