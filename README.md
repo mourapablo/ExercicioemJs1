@@ -1,4 +1,5 @@
 # exercicios desenvolvidos em javascript
+# Média do aluno com condições relacionais.
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
